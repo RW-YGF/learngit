@@ -4,3 +4,4 @@
 4-my
 Git tracks changes.
 git work hard
+Creating a new branch is quick.
